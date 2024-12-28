@@ -14,8 +14,11 @@ I currently work as a **research scientist at Brno University of Technology (VUT
 ## 🧬 What I Do in Bioinformatics  
 
 ### Main Roles:  
-- At **VUT**, I conduct research as part of the **Life Environment Research Centre Ostrava (LERCO)** and collaborate with **VUVEL** on the ([**NaCeBiVet**],(https://www.vri.cz/nacebivet/)) project, focusing on innovations in veterinary medicine.  
-- At **DNA Lab (FNO)**, I lead the bioinformatics team, ensuring robust data analysis pipelines for clinical diagnostics and academic research. - **GitHub (DNA Lab):** [https://github.com/DNA-Lab-FNO](https://github.com/DNA-Lab-FNO)  
+- At **VUT**, I conduct research in collaboration with **VUVEL** on the [**NaCeBiVet**](https://www.vri.cz/nacebivet/) project, focusing on innovations in veterinary medicine.  
+- At **FNO**, I am a fellow researcher in the **Life Environment Research Centre Ostrava (LERCO)**.  
+- At the **DNA Lab (FNO)**, I lead the bioinformatics team, ensuring robust data analysis pipelines for clinical diagnostics and academic research.  
+  - **GitHub (DNA Lab):** [https://github.com/DNA-Lab-FNO](https://github.com/DNA-Lab-FNO)
+
 
 ### Expertise:  
 - Omics data analysis: GenOMICs, TranscritOMICs (RNA-seq, ChIP-seq), MetabolOMICs, databases / data storage and management, and others such as – Variant Calling, Epigenomics.  
