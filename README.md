@@ -15,7 +15,7 @@ I currently work as a **research scientist at Brno University of Technology (VUT
 
 ### Main Roles:  
 - At **VUT**, I conduct research in collaboration with **VUVEL** on the [**NaCeBiVet**](https://www.vri.cz/nacebivet/) project, focusing on innovations in veterinary medicine.  
-- At **FNO**, I am a fellow researcher in the **Life Environment Research Centre Ostrava (LERCO)**.  
+- At **FNO**, I am a fellow researcher in the **Life Environment Research Centre Ostrava [LERCO](https://fajnova.cz/projekt/lerco/)** .  
 - At the **DNA Lab (FNO)**, I lead the bioinformatics team, ensuring robust data analysis pipelines for clinical diagnostics and academic research.  
   - **GitHub (DNA Lab):** [https://github.com/DNA-Lab-FNO](https://github.com/DNA-Lab-FNO)
 
@@ -45,7 +45,7 @@ I currently work as a **research scientist at Brno University of Technology (VUT
 
 - **Algorithms and Programming:** Practical lessons at Brno University of Technology. ([VUT - PRG](https://www.vut.cz/en/students/courses/detail/279892))
 - **Medical diagnostic devices:** Practical lessons at Brno University of Technology. ([VUT - LDT](https://www.vut.cz/en/students/courses/detail/279799))
-- **Practics of Bioinformatics:** Practical lessons at Brno University of Technology. ([VUT - LDT](https://www.vut.cz/en/students/courses/detail/279869))
+- **Practics of Bioinformatics:** Practical lessons at Brno University of Technology. ([VUT - PBI](https://www.vut.cz/en/students/courses/detail/279869))
 ---
 
 ## 🚀 Vision  
