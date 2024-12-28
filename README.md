@@ -19,25 +19,9 @@ I currently work as a **research scientist at Brno University of Technology (VUT
 - At the **DNA Lab (FNO)**, I am bioinformatics, ensuring robust data analysis pipelines for clinical diagnostics and academic research.  
   - **GitHub (DNA Lab):** [https://github.com/DNA-Lab-FNO](https://github.com/DNA-Lab-FNO)
 
-
-### Expertise:  
-- Omics data analysis: GenOMICs, TranscritOMICs (RNA-seq, ChIP-seq), MetabolOMICs, databases / data storage and management, and others such as – Variant Calling, Epigenomics.  
-- Development of bioinformatic tools and pipelines.  
-- Benchmarking and implementing new bioinformatics methodologies.  
-- Providing computational support to wet-lab researchers.  
-
 ### External Collaborations:  
 - **Mosys Group**  
 - **Nagele Lab** ([GitHub](https://github.com/cellbiomaths))  
-
----
-
-## 💻 Technical Skills  
-
-- **Languages:** R, Matlab, Python, Bash scripting.  
-- **Bioinformatics:** NGS data analysis, pipeline development, and benchmarking tools.  
-- **Version Control:** Git (with continuous integration workflows using GitHub Actions).  
-- **Documentation & Clean Code:** Prioritizing maintainable and well-documented solutions.  
 
 ---
 
